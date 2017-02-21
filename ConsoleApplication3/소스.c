@@ -3,8 +3,8 @@
 int main(void)
 {
 	int a;
-	printf("æ»≥Á«œººø‰ \n");
+	printf("hello wolrd! \n");
 	scanf("%d", &a);
-	printf("%d", a);
+	printf("output %d", a);
 	return 0;
 }
